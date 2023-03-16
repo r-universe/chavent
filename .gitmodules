@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ClustGeo"]
+	path = ClustGeo
+	url = https://github.com/chavent/clustgeo
+	shallow = true
+	registered = true
+[submodule "ClustOfVar"]
+	path = ClustOfVar
+	url = https://github.com/chavent/clustofvar
+	shallow = true
+	registered = true
+[submodule "PCAmixdata"]
+	path = PCAmixdata
+	url = https://github.com/chavent/pcamixdata
+	shallow = true
+	registered = true

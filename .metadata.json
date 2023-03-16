@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ClustGeo",
+    "oncran": true
+  },
+  {
+    "package": "ClustOfVar",
+    "oncran": true
+  },
+  {
+    "package": "PCAmixdata",
+    "oncran": true
+  }
+]
